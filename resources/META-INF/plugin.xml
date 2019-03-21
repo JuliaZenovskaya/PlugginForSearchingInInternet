@@ -9,16 +9,12 @@
 
   <depends>com.intellij.modules.lang</depends>
 
-  <extensions defaultExtensionNs="com.intellij">
-    <!-- Add your extensions here -->
-  </extensions>
+  <extensions defaultExtensionNs="com.intellij"/>
 
   <actions>
-    <!-- Add your actions here -->
-    <action id="MakeSearching" class="MakeSearching" text="MakeSearching" description="Make searching on choosen site"/>
     <group id="Useless.MakeSearching">
       <add-to-group group-id="EditorPopupMenu" anchor="first"/>
-      <action id="Useless.MakeSearching.Action" class="MakeSearching" text="Search"/>
+      <action id="MakeSearching" class="MakeSearching" text="Search"/>
     </group>
   </actions>
 

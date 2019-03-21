@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PlugginForSearchingInInternet.iml" filepath="$PROJECT_DIR$/PlugginForSearchingInInternet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlugginForSearchingOnInternet.iml" filepath="$PROJECT_DIR$/PlugginForSearchingOnInternet.iml" />
     </modules>
   </component>
 </project>
