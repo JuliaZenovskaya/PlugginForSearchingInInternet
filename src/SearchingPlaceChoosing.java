@@ -5,4 +5,7 @@ public class SearchingPlaceChoosing {
     private JRadioButton Habr;
     private JRadioButton StackOverflow;
     private JPanel Choce;
+    private JRadioButton Toster;
+
+    
 }
